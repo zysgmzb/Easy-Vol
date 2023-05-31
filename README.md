@@ -4,7 +4,7 @@
 
 目前支持windows和linux
 
-linux由于vol本身的原因写的还不是很完善，之后有时间再看看
+linux由于vol本身在linux中搜文件等功能太慢的原因写的还不是很完善，之后有时间再看看
 
 日后可能会再建一个profile仓库和这个搭配起来自动获取仓库中的profile
 
